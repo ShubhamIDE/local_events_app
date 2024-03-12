@@ -23,7 +23,7 @@ class EventDetailBackground extends StatelessWidget {
             colorBlendMode: BlendMode.darken,
             height: screenHeight * 0.5,
           ),
-        ));
+    ));
   }
 }
 
